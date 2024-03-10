@@ -12,3 +12,4 @@ D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-01\Exercicio-03\obj\Debug\n
 D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-01\Exercicio-03\obj\Debug\net8.0\Exercicio-03.pdb
 D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-01\Exercicio-03\obj\Debug\net8.0\Exercicio-03.genruntimeconfig.cache
 D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-01\Exercicio-03\obj\Debug\net8.0\ref\Exercicio-03.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-01\Exercicio-03\obj\Debug\net8.0\Exercicio-03.sourcelink.json

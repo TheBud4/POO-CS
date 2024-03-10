@@ -6,7 +6,7 @@ public class Produto {
         Preco = preco;
     }
 
-    public int Id { get; set; } = new Random().Next(1,100000);
+    public int Id { get; set; } = new Random().Next(1,100);
       public string Nome { get; set; } = string.Empty;
       public decimal Preco  { get; set; }
 }
