@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FA84CF4-946E-4F3B-8471-F9FDDDF55D47}|Exercicio-06\\Exercicio-06.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-01\\exercicio-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FA84CF4-946E-4F3B-8471-F9FDDDF55D47}|Exercicio-06\\Exercicio-06.csproj|solutionrelative:exercicio-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184D9C8-1883-4830-A3BC-EF8BD27B8B7E}|Exercicio-05\\Exercicio-05.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-01\\exercicio-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184D9C8-1883-4830-A3BC-EF8BD27B8B7E}|Exercicio-05\\Exercicio-05.csproj|solutionrelative:exercicio-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-01\\Exercicio-05\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-05\\Program.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-01\\Exercicio-05\\Program.cs",
+              "RelativeToolTip": "Exercicio-05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T03:23:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-01\\Exercicio-06\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio-06\\Program.cs",
               "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-01\\Exercicio-06\\Program.cs",
               "RelativeToolTip": "Exercicio-06\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T04:12:02.712Z",
               "EditorCaption": ""
