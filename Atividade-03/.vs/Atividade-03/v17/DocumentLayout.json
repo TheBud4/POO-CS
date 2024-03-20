@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|solutionrelative:exercicio-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|solutionrelative:exercicio-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Exercicio-02\\Calculadora.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Calculadora.cs",
+              "RelativeToolTip": "Exercicio-02\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:40:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-02\\Program.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Program.cs",
+              "RelativeToolTip": "Exercicio-02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:38:58.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
