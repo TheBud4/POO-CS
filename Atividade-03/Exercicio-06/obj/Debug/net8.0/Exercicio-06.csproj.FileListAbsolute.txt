@@ -1,0 +1,15 @@
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\bin\Debug\net8.0\Exercicio-06.exe
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\bin\Debug\net8.0\Exercicio-06.deps.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\bin\Debug\net8.0\Exercicio-06.runtimeconfig.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\bin\Debug\net8.0\Exercicio-06.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\bin\Debug\net8.0\Exercicio-06.pdb
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.GeneratedMSBuildEditorConfig.editorconfig
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.AssemblyInfoInputs.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.AssemblyInfo.cs
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.csproj.CoreCompileInputs.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.sourcelink.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\refint\Exercicio-06.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.pdb
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\Exercicio-06.genruntimeconfig.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-06\obj\Debug\net8.0\ref\Exercicio-06.dll

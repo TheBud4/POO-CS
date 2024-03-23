@@ -5,10 +5,13 @@
 
 namespace Exercicio_01;
 
-public class Program{
-   static void Main() {
-        Pessoa pessoa = new();
-        pessoa.AdicionarDados("Murilo", 20, 190);
+public class Program {
+    static void Main() {
+        Pessoa pessoa = new Pessoa() {
+            Altura = 190,
+            Idade = 20,
+            Nome = "Murilo"
+        };
         pessoa.ImprimirDados();
     }
 }

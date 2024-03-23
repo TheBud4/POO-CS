@@ -8,7 +8,11 @@ namespace Exercicio_02;
 
 public class Program {
     static void Main() {
-        Console.WriteLine("Digite o primeiro numero:");
-        
+        Calculadora calculadora = new Calculadora();
+
+        calculadora.Somar(1, 1);
+        calculadora.Multiplicar(2, 2);
+        calculadora.Dividir(4,2);
+        calculadora.Subtrair(1, 1);
     }
 }

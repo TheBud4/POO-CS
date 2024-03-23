@@ -1,31 +1,25 @@
 ﻿
-namespace Exercicio_01;
 public class Pessoa {
-
     private string _nome = String.Empty;
-    private int _idade = 0;
-    private int _altura = 0;
+    private int _idade;
+    private double _altura;
 
     public string Nome {
         get { return _nome; }
-    }
-    public int Idade {
-        get { return _idade; }
-    }
-    public int Altura {
-        get { return _altura; }
+        set { _nome = value; }
     }
 
-    public void AdicionarDados(string nome,int idade,int altura) {
-        _nome = nome;
-        _idade = idade;
-        _altura = altura;
+    public int Idade {
+        get { return _idade; }
+        set { _idade = value; }
+    }
+
+    public double Altura {
+        get { return _altura; }
+        set { _altura = value; }
     }
 
     public void ImprimirDados() {
-        Console.WriteLine(_nome);
-        Console.WriteLine(_idade);
-        Console.WriteLine(_altura);
+        Console.WriteLine($"Nome: {Nome}, Idade: {Idade}, Altura: {Altura}");
     }
-
 }

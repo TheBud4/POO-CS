@@ -1,0 +1,15 @@
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\bin\Debug\net8.0\Exercicio-09.exe
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\bin\Debug\net8.0\Exercicio-09.deps.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\bin\Debug\net8.0\Exercicio-09.runtimeconfig.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\bin\Debug\net8.0\Exercicio-09.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\bin\Debug\net8.0\Exercicio-09.pdb
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.GeneratedMSBuildEditorConfig.editorconfig
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.AssemblyInfoInputs.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.AssemblyInfo.cs
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.csproj.CoreCompileInputs.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.sourcelink.json
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\refint\Exercicio-09.dll
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.pdb
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\Exercicio-09.genruntimeconfig.cache
+D:\WWW\UTFPR\Programacao-Orientada-Objetos\Atividade-03\Exercicio-09\obj\Debug\net8.0\ref\Exercicio-09.dll

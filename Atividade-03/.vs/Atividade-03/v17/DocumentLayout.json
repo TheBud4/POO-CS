@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|solutionrelative:exercicio-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79BDA218-A709-44CA-8C8B-9F3BCBE2B33B}|Exercicio-10\\Exercicio-10.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-10\\conversordemoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDA218-A709-44CA-8C8B-9F3BCBE2B33B}|Exercicio-10\\Exercicio-10.csproj|solutionrelative:exercicio-10\\conversordemoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094B4FB8-59E4-4F75-BF3F-AF12670D61F2}|Exercicio-02\\Exercicio-02.csproj|solutionrelative:exercicio-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79BDA218-A709-44CA-8C8B-9F3BCBE2B33B}|Exercicio-10\\Exercicio-10.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-03\\exercicio-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDA218-A709-44CA-8C8B-9F3BCBE2B33B}|Exercicio-10\\Exercicio-10.csproj|solutionrelative:exercicio-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculadora.cs",
-              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Calculadora.cs",
-              "RelativeDocumentMoniker": "Exercicio-02\\Calculadora.cs",
-              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Calculadora.cs",
-              "RelativeToolTip": "Exercicio-02\\Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoedas.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-10\\ConversorDeMoedas.cs",
+              "RelativeDocumentMoniker": "Exercicio-10\\ConversorDeMoedas.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-10\\ConversorDeMoedas.cs",
+              "RelativeToolTip": "Exercicio-10\\ConversorDeMoedas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T19:40:55.393Z",
+              "WhenOpened": "2024-03-23T19:27:17.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio-02\\Program.cs",
-              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-02\\Program.cs",
-              "RelativeToolTip": "Exercicio-02\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-10\\Program.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-03\\Exercicio-10\\Program.cs",
+              "RelativeToolTip": "Exercicio-10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T19:38:58.774Z",
+              "WhenOpened": "2024-03-23T19:15:01.52Z",
               "EditorCaption": ""
             }
           ]
