@@ -1,1 +1,1 @@
-# Repositorio para as classes de Programação orientada a objetos
+# Repositorio para as aulas de Programação orientada a objetos
