@@ -8,7 +8,14 @@ namespace Exercicio_06;
 
 public class Program() {
     static void Main() {
-        Aluno aluno = new("Murilo",1.0,6.8,2.0,8.8,9.8);
+        Aluno aluno = new() { 
+        Nome ="Murilo"
+        };
+        aluno.AdicionarNota(1.0);
+        aluno.AdicionarNota(2.6);
+        aluno.AdicionarNota(6.2);
+        aluno.AdicionarNota(5.3);
+        aluno.AdicionarNota(7.4);
 
         Console.WriteLine(aluno.CalcularMedia());
     }

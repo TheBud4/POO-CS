@@ -15,12 +15,6 @@ namespace Exercicio_06 {
             set { _notas = value; }
         }
 
-        public Aluno(string nome, params double[] notas) {
-            Nome = nome;
-            foreach (var nota in notas) {
-                _notas.Add(nota);
-            }
-        }
 
         public void AdicionarNota(double nota) {
             Notas.Add(nota);
