@@ -23,7 +23,7 @@ public class ContaBancaria {
             throw new ArgumentException("O valor a ser depositado deve ser maior que zero.");
         }
 
-        _saldo += valor;
+        Saldo += valor;
     }
 
     public void Sacar(float valor) {
@@ -31,11 +31,11 @@ public class ContaBancaria {
             throw new ArgumentException("O valor a ser sacado deve ser maior que zero.");
         }
 
-        if (valor > _saldo) {
+        if (valor > Saldo) {
             throw new ArgumentException("Saldo insuficiente.");
         }
 
-        _saldo -= valor;
+        Saldo -= valor;
     }
 
     public void Transferir(float valor, ContaBancaria contaDestino) {
@@ -43,11 +43,11 @@ public class ContaBancaria {
             throw new ArgumentException("O valor a ser transferido deve ser maior que zero.");
         }
 
-        if (valor > _saldo) {
+        if (valor > Saldo) {
             throw new ArgumentException("Saldo insuficiente.");
         }
 
-        _saldo -= valor;
+        Saldo -= valor;
         contaDestino.Depositar(valor);
     }
 

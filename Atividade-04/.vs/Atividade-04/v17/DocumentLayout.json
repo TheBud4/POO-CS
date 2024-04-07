@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entities\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Endereco.cs",
               "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Endereco.cs",
               "RelativeDocumentMoniker": "Atividade-04\\Entities\\Endereco.cs",
               "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Endereco.cs",
               "RelativeToolTip": "Atividade-04\\Entities\\Endereco.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T17:35:59.468Z",
+              "WhenOpened": "2024-04-07T21:16:48.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Atividade-04\\Entities\\Cliente.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Atividade-04\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:16:46.848Z",
               "EditorCaption": ""
             },
             {
@@ -49,22 +66,9 @@
               "RelativeDocumentMoniker": "Atividade-04\\Entities\\ContaBancaria.cs",
               "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\ContaBancaria.cs",
               "RelativeToolTip": "Atividade-04\\Entities\\ContaBancaria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:05:17.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "Atividade-04\\Entities\\Cliente.cs",
-              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entities\\Cliente.cs",
-              "RelativeToolTip": "Atividade-04\\Entities\\Cliente.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:04:43.564Z",
+              "WhenOpened": "2024-04-07T21:16:06.028Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +79,9 @@
               "RelativeDocumentMoniker": "Atividade-04\\Program.cs",
               "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Program.cs",
               "RelativeToolTip": "Atividade-04\\Program.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAD4v48AAAAVAAAA",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAswKAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:03:58.003Z",
+              "WhenOpened": "2024-04-07T20:42:50.064Z",
               "EditorCaption": ""
             }
           ]

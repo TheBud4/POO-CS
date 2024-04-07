@@ -2,15 +2,16 @@
 namespace Exercicio_01.Entities;
 public class Cliente {
 
-    private string _nome;
-    private string _email;
+    private string _nome = String.Empty;
+    private string _email = String.Empty;
     private DateTime _nascimento;
     private Endereco _endereco;
-    private string _telefone;
-    public string Nome { get; set; }
-    public string Email { get; set; }
+
+    private string _telefone = String.Empty;
+    public string Nome { get; set; } = String.Empty;
+    public string Email { get; set; } = String.Empty;
     public Endereco Endereco { get; set; }
-    public string Telefone { get; set; }
+    public string Telefone { get; set; } = String.Empty;
 
     public DateTime Nascimento {
         get { return _nascimento; }
@@ -27,12 +28,12 @@ public class Cliente {
     }
 
     public void AtualizarEndereco(string novoCep, string novoBairro, string novoLogradouro, int novoNumero) {
-        if (_endereco == null) {
-            _endereco = new Endereco();
+        if (Endereco == null) {
+            Endereco = new Endereco();
         }
-        _endereco.Cep = novoCep;
-        _endereco.Bairro = novoBairro;
-        _endereco.Logradouro = novoLogradouro;
-        _endereco.Numero = novoNumero;
+        Endereco.Cep = novoCep;
+        Endereco.Bairro = novoBairro;
+        Endereco.Logradouro = novoLogradouro;
+        Endereco.Numero = novoNumero;
     }
 }

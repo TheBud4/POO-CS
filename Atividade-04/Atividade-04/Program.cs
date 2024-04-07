@@ -23,12 +23,15 @@ namespace Exercicio_01;
 public class Program {
     static void Main() {
         List<ContaBancaria> contas = new List<ContaBancaria>();
+
         while (true) {
             int opcao;
             ContaBancaria conta = new ContaBancaria();
-            DateTime nascimento;
+
 
             Console.WriteLine("Bem vindo ao sistema!");
+            Thread.Sleep(2000);
+
             Console.Clear();
 
             Console.WriteLine("O que deseja fazer?");
@@ -38,7 +41,13 @@ public class Program {
             Console.WriteLine("4 - Transferir");
             Console.WriteLine("5 - Pesquisar Conta ");
             Console.WriteLine("6 - Sair");
-            opcao = int.Parse(Console.ReadLine());
+            try {
+                opcao = int.Parse(Console.ReadLine());
+
+            } catch (FormatException) {
+                Console.WriteLine("Formato inválido. Por favor, insira um valor válido.");
+                continue;
+            }
 
             switch (opcao) {
                 case 1:
@@ -75,7 +84,7 @@ public class Program {
                             Console.WriteLine("Digite o logradouro do titular da conta:");
                             logradouroTitular = Console.ReadLine();
 
-                            Console.WriteLine("Digite o número do titular da conta:");
+                            Console.WriteLine("Digite o número da casa titular da conta:");
                             numeroTitular = int.Parse(Console.ReadLine());
 
                             conta.Titular.AtualizarEndereco(cepTitular, bairroTitular, logradouroTitular, numeroTitular);
@@ -89,17 +98,30 @@ public class Program {
                     }
                     Console.WriteLine("Conta cadastrada com sucesso!");
                     Console.WriteLine("Número da conta: " + conta.NumeroConta);
+                    Console.WriteLine(conta.Titular.Endereco.Cep);
                     Console.WriteLine("Titular: " + conta.Titular.Nome);
                     Console.WriteLine("Saldo atual: " + conta.Saldo);
+
+                    Thread.Sleep(2000);
+
                     break;
                 case 2:
                     while (true) {
                         try {
-                            Console.WriteLine("Digite o número da conta:");
-                            int numeroConta = int.Parse(Console.ReadLine());
+                            Console.WriteLine("Digite o nome do titular da conta:");
+                            string achado = Console.ReadLine();
                             Console.WriteLine("Digite o valor a ser depositado:");
                             float valorDeposito = float.Parse(Console.ReadLine());
-                            contas[numeroConta].Depositar(valorDeposito);
+
+                            ContaBancaria contaModificar = contas.Find(c => c.Titular.Nome == achado);
+                            if (contaModificar != null) {
+                                contaModificar.Depositar(valorDeposito);
+                                Console.WriteLine("Depósito realizado com sucesso!");
+                                Console.WriteLine("Saldo atual: " + contaModificar.Saldo);
+                            } else {
+                                Console.WriteLine("Conta não encontrada.");
+                            }
+
                             break;
                         } catch (ArgumentException e) {
                             Console.WriteLine(e.Message);
@@ -109,16 +131,19 @@ public class Program {
                     }
                     Console.WriteLine("Depósito realizado com sucesso!");
                     Console.WriteLine("Saldo atual: " + conta.Saldo);
+                    Thread.Sleep(3000);
+
                     break;
                 case 3:
                     while (true) {
                         try {
 
                             Console.WriteLine("Digite o número da conta:");
-                            int numeroContaSaque = int.Parse(Console.ReadLine());
+                            string achada = Console.ReadLine();
                             Console.WriteLine("Digite o valor a ser sacado:");
                             float valorSaque = float.Parse(Console.ReadLine());
-                            contas[numeroContaSaque].Sacar(valorSaque);
+                            ContaBancaria contaModificar = contas.Find(c => c.Titular.Nome == achada);
+                            contaModificar.Sacar(valorSaque);
 
                             break;
                         } catch (FormatException) {
@@ -127,32 +152,47 @@ public class Program {
                     }
                     Console.WriteLine("Saque realizado com sucesso!");
                     Console.WriteLine("Saldo atual: " + conta.Saldo);
+                    Thread.Sleep(3000);
+
                     break;
                 case 4:
-                    Console.WriteLine("Digite o número da conta de origem:");
-                    int numeroContaOrigem = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Digite o número da conta de destino:");
-                    int numeroContaDestino = int.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Digite o nome do titular da conta de origem:");
+                    string numeroContaOrigem = Console.ReadLine();
+                    ContaBancaria contaOrigem = contas.Find(c => c.Titular.Nome == numeroContaOrigem);
+
+                    Console.WriteLine("Digite o nome do titular da conta de destino:");
+                    string numeroContaDestino = Console.ReadLine();
+                    ContaBancaria contaDestino = contas.Find(c => c.Titular.Nome == numeroContaDestino);
+
                     Console.WriteLine("Digite o valor a ser transferido:");
                     float valorTransferencia = float.Parse(Console.ReadLine());
+
+                    contaOrigem.Transferir(valorTransferencia, contaDestino);
 
                     break;
                 case 5:
 
-                    foreach (ContaBancaria c in contas) {
-                        Console.WriteLine(c);
-                    }
-                    /*Console.WriteLine("Digite o nome do titular da conta:");
+                    Console.WriteLine("Digite o nome do titular da conta:");
+
                     string nomePesquisa = Console.ReadLine();
 
                     ContaBancaria contaEncontrada = contas.Find(c => c.Titular.Nome == nomePesquisa);
 
                     if (contaEncontrada != null) {
-                        Console.WriteLine(contaEncontrada);
+                        Console.WriteLine(contaEncontrada.Titular.Nome);
+                        Console.WriteLine(contaEncontrada.Titular.Email);
+                        Console.WriteLine(contaEncontrada.Titular.Nascimento);
+                        Console.WriteLine(contaEncontrada.Titular.Endereco.Cep);
+                        Console.WriteLine(contaEncontrada.Titular.Endereco.Bairro);
+                        Console.WriteLine(contaEncontrada.Titular.Endereco.Logradouro);
+                        Console.WriteLine(contaEncontrada.Titular.Endereco.Numero);
+                        Console.WriteLine(contaEncontrada.NumeroConta);
+                        Console.WriteLine(contaEncontrada.Saldo);
                     } else {
                         Console.WriteLine("Conta não encontrada.");
                     }
-                    */
+
                     break;
                 case 6:
                     break;
@@ -161,6 +201,8 @@ public class Program {
                     break;
             }
             Console.WriteLine("Obrigado por utilizar o sistema!");
+            Thread.Sleep(3000);
+
             if (opcao == 6) {
                 break;
             }
