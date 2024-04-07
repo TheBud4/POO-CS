@@ -1,20 +1,18 @@
 ﻿
-
-using System.Runtime.CompilerServices;
-
-namespace Exercicio_01.Entites;
+namespace Exercicio_01.Entities;
 public class Cliente {
 
     private string _nome;
     private string _email;
     private DateTime _nascimento;
     private Endereco _endereco;
-
+    private string _telefone;
     public string Nome { get; set; }
     public string Email { get; set; }
     public Endereco Endereco { get; set; }
+    public string Telefone { get; set; }
 
-    public DateTime Nascimeto {
+    public DateTime Nascimento {
         get { return _nascimento; }
         set {
             if (value > DateTime.Now) {
