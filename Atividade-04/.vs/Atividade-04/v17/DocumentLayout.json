@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entites\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entites\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entites\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entites\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|d:\\www\\utfpr\\programacao-orientada-objetos\\atividade-04\\atividade-04\\entites\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73295340-4E15-48EB-ACA2-A2910193602F}|Atividade-04\\Exercicio-01.csproj|solutionrelative:atividade-04\\entites\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Atividade-04\\Entites\\ContaBancaria.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\ContaBancaria.cs",
+              "RelativeToolTip": "Atividade-04\\Entites\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:05:17.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\Endereco.cs",
+              "RelativeDocumentMoniker": "Atividade-04\\Entites\\Endereco.cs",
+              "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\Endereco.cs",
+              "RelativeToolTip": "Atividade-04\\Entites\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:47:53.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\Cliente.cs",
               "RelativeDocumentMoniker": "Atividade-04\\Entites\\Cliente.cs",
               "ToolTip": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Entites\\Cliente.cs",
               "RelativeToolTip": "Atividade-04\\Entites\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA0wCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T17:04:43.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WWW\\UTFPR\\Programacao-Orientada-Objetos\\Atividade-04\\Atividade-04\\Program.cs",
               "RelativeDocumentMoniker": "Atividade-04\\Program.cs",
