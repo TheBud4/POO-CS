@@ -28,12 +28,14 @@ public class Cliente {
     }
 
     public void AtualizarEndereco(string novoCep, string novoBairro, string novoLogradouro, int novoNumero) {
+
         if (Endereco == null) {
             Endereco = new Endereco();
         }
+
         Endereco.Cep = novoCep;
         Endereco.Bairro = novoBairro;
         Endereco.Logradouro = novoLogradouro;
-        Endereco.Numero = novoNumero;
+        Endereco.NumeroCasa = novoNumero;
     }
 }
