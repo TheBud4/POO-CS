@@ -4,51 +4,94 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:vm="clr-namespace:TrabalhoAvalonia.ViewModels"
              mc:Ignorable="d"
-			 d:DesignWidth="300"
-			 d:DesignHeight="350"
+			 d:DesignWidth="1300"
+			 d:DesignHeight="700"
+			 Width="1300"
+			 Height="700"
              x:Class="TrabalhoAvalonia.Views.MainView"
              x:DataType="vm:MainViewModel">
 	<Design.DataContext>
 		<vm:MainViewModel/>
 	</Design.DataContext>
 
-	<StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
-
+	<Grid>
 		<!-- Cabeçalho-->
 
 		<!-- Conteudo -->
-
 		<Panel
 			HorizontalAlignment="Stretch"
-			Classes="Header"
-			Background="Red"
 			VerticalAlignment="Top"
+			Classes="Header"
+			Height="128"
 		>
-			<Panel
+			<Border
 				VerticalAlignment="Center"
 				HorizontalAlignment="Center"
+				Width="671"
+				Background="#3E3E42"
 				Margin="5"
-				Classes="SearchBar"
+				CornerRadius="100"
+					>
+				<StackPanel
+					VerticalAlignment="Center"
+					HorizontalAlignment="Center"
+					Width="670"
+					Classes="SearchBar"
+					Orientation="Horizontal"
 				>
-				<Image Classes="SearchIcon"/>
-				<TextBox Classes="SearchBox"/>
-			</Panel>
+					<PathIcon
+						Margin="25,10,10,10"
+						Data="{StaticResource search_regular}"
+						Foreground="#007ACC"
+						/>
+					<TextBox
+					Watermark="Pesquise aqui..."
+					Opacity="0.5"
+					Background="Transparent"
+					VerticalAlignment="Center"
+					Width="600"
+					BorderBrush="Transparent"
+					
+					/>
+				</StackPanel>
+			</Border>
 		</Panel>
 		<Panel
 			Classes="Main"
 			Background="Blue"
 			VerticalAlignment="Center"
+			HorizontalAlignment="Stretch"
 			>
 			<TextBlock Text="Main"/>
 
 		</Panel>
 		<Panel
 			Classes="Footer"
-			Background="Green"
+			Background="#3E3E42"
 			VerticalAlignment="Bottom"
+			HorizontalAlignment="Stretch"
+			Height="138"
+			Grid.Column="1"
 			>
-			<TextBlock Text="Footer"/>
+			<Button
+				Classes="AddButton"
+				VerticalAlignment="Center"
+				HorizontalAlignment="Center"
+				Width="69"
+				Height="69"
+				BorderThickness="2"
+				BorderBrush="#6B6B71"
+				Background="Transparent"
+				CornerRadius="10"
+				>
+				<PathIcon
+					Data="{StaticResource add_circle_regular}"
+					Width="40"
+					Height="40"
+					Foreground="#007ACC"
+				/>
+			</Button>
 		</Panel>
 
-	</StackPanel>
+	</Grid>
 </UserControl>
