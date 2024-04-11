@@ -13,6 +13,7 @@
         Icon="/Assets/Logo.ico"
         Title="TaskMaster"
 		Background="#2d2d30"
+		ExtendClientAreaToDecorationsHint="True"
 		>
 	<views:MainView />
 </Window>

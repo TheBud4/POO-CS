@@ -10,6 +10,7 @@
 			 Height="700"
              x:Class="TrabalhoAvalonia.Views.MainView"
              x:DataType="vm:MainViewModel">
+
 	<Design.DataContext>
 		<vm:MainViewModel/>
 	</Design.DataContext>
@@ -51,20 +52,39 @@
 					VerticalAlignment="Center"
 					Width="600"
 					BorderBrush="Transparent"
-					
+					Text="{Binding SearchText}"
 					/>
+					<ProgressBar IsIndeterminate="True" IsVisible="{Binding IsBusy}" />
 				</StackPanel>
 			</Border>
 		</Panel>
-		<Panel
-			Classes="Main"
-			Background="Blue"
-			VerticalAlignment="Center"
-			HorizontalAlignment="Stretch"
+		<!-- Main -->
+		<StackPanel
+			HorizontalAlignment="Center"
+			Margin="0,100,0,40"
+			Width="1000"
 			>
-			<TextBlock Text="Main"/>
-
-		</Panel>
+			<ScrollViewer
+				VerticalScrollBarVisibility="Visible"
+				>
+				<ListBox
+					ItemsSource="{Binding GetTodos}"
+					SelectedItem="{Binding SelectedTodo}"
+					Background="Transparent"
+					Margin="0 20"
+					VerticalAlignment="Center"
+					HorizontalAlignment="Center"
+					Height="425"
+					 >
+					<ListBox.ItemsPanel>
+						<ItemsPanelTemplate>
+							<WrapPanel />
+						</ItemsPanelTemplate>
+					</ListBox.ItemsPanel>
+				</ListBox>
+			</ScrollViewer>
+		</StackPanel>
+		<!-- Footer -->
 		<Panel
 			Classes="Footer"
 			Background="#3E3E42"
@@ -83,6 +103,7 @@
 				BorderBrush="#6B6B71"
 				Background="Transparent"
 				CornerRadius="10"
+				Command="{Binding AddTodo}"
 				>
 				<PathIcon
 					Data="{StaticResource add_circle_regular}"
