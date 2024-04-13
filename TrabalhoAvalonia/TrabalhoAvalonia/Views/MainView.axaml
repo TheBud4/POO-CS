@@ -9,7 +9,9 @@
 			 Width="1300"
 			 Height="700"
              x:Class="TrabalhoAvalonia.Views.MainView"
-             x:DataType="vm:MainViewModel">
+             x:DataType="vm:MainViewModel"
+				
+			 >
 
 	<Design.DataContext>
 		<vm:MainViewModel/>
