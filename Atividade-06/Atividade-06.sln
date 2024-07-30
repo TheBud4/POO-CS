@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade-06", "Atividade-06.csproj", "{263C6B8D-6DD3-481F-94F9-43F13D9DED9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263C6B8D-6DD3-481F-94F9-43F13D9DED9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263C6B8D-6DD3-481F-94F9-43F13D9DED9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263C6B8D-6DD3-481F-94F9-43F13D9DED9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263C6B8D-6DD3-481F-94F9-43F13D9DED9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
