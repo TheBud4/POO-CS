@@ -10,7 +10,6 @@
 			 Height="700"
              x:Class="TrabalhoAvalonia.Views.MainView"
              x:DataType="vm:MainViewModel"
-				
 			 >
 
 	<Design.DataContext>
@@ -54,9 +53,9 @@
 					VerticalAlignment="Center"
 					Width="600"
 					BorderBrush="Transparent"
-					Text="{Binding SearchText}"
 					/>
-					<ProgressBar IsIndeterminate="True" IsVisible="{Binding IsBusy}" />
+					<!--Text="{Binding SearchText}" 
+					<ProgressBar IsIndeterminate="True" IsVisible="{Binding IsBusy}" />-->
 				</StackPanel>
 			</Border>
 		</Panel>
@@ -69,7 +68,7 @@
 			<ScrollViewer
 				VerticalScrollBarVisibility="Visible"
 				>
-				<ListBox
+				<!--<ListBox
 					ItemsSource="{Binding GetTodos}"
 					SelectedItem="{Binding SelectedTodo}"
 					Background="Transparent"
@@ -83,7 +82,7 @@
 							<WrapPanel />
 						</ItemsPanelTemplate>
 					</ListBox.ItemsPanel>
-				</ListBox>
+				</ListBox>-->
 			</ScrollViewer>
 		</StackPanel>
 		<!-- Footer -->

@@ -18,7 +18,7 @@ public partial class MainWindow : ReactiveWindow<MainViewModel> {
          action(ViewModel!.ShowDialog.RegisterHandler(DoShowDialogAsync)));
     }
 
-    private async Task DoShowDialogAsync(InteractionContext<AddTodoViewModel, TodoViewModel?> interaction) {
+    private async Task DoShowDialogAsync(InteractionContext<AddTodoViewModel, TodoViewModel> interaction) {
 
         var dialog = new AddTodo();
         dialog.DataContext = interaction.Input;

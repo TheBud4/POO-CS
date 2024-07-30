@@ -1,17 +1,15 @@
 ﻿using ReactiveUI;
-using System;
-using System.Collections.ObjectModel;
+using System.Diagnostics;
 using System.Reactive.Linq;
 using System.Windows.Input;
-using System.Xml.Schema;
-using TrabalhoAvalonia.Model;
-using TrabalhoAvalonia.Views;
+
 
 namespace TrabalhoAvalonia.ViewModels;
 
 public class MainViewModel : ViewModelBase {
 
     public MainViewModel() {
+        Debug.WriteLine("Mensagem de depuração");
 
         ShowDialog = new Interaction<AddTodoViewModel, TodoViewModel>();
 
@@ -20,50 +18,51 @@ public class MainViewModel : ViewModelBase {
             var result = await ShowDialog.Handle(todo);
         });
 
-        this.WhenAnyValue(x => x.SearchText)
-                .Throttle(TimeSpan.FromMilliseconds(400))
-                .ObserveOn(RxApp.MainThreadScheduler)
-                .Subscribe(DoSearch!);
+        //this.WhenAnyValue(x => x.SearchText)
+        //        .Throttle(TimeSpan.FromMilliseconds(400))
+        //        .ObserveOn(RxApp.MainThreadScheduler)
+        //        .Subscribe(DoSearch!);
 
     }
     public ICommand AddTodo { get; }
     public Interaction<AddTodoViewModel, TodoViewModel> ShowDialog { get; }
-    // Search Todo 
-    private string? _searchText;
-    private bool _isBusy;
-    private TodoViewModel? _selectedTodo;
+    //// Search Todo 
+    //private string? _searchText;
+    //private bool _isBusy;
+    //private TodoViewModel? _selectedTodo;
 
-    public string? SearchText {
-        get => _searchText;
-        set => this.RaiseAndSetIfChanged(ref _searchText, value);
-    }
+    //public string? SearchText {
+    //    get => _searchText;
+    //    set => this.RaiseAndSetIfChanged(ref _searchText, value);
+    //}
 
-    public bool IsBusy {
-        get => _isBusy;
-        set => this.RaiseAndSetIfChanged(ref _isBusy, value);
-    }
+    //public bool IsBusy {
+    //    get => _isBusy;
+    //    set => this.RaiseAndSetIfChanged(ref _isBusy, value);
+    //}
 
-    public ObservableCollection<TodoViewModel> GetTodos { get; } = new();
-    public TodoViewModel? SelectedTodo {
-        get => _selectedTodo;
-        set => this.RaiseAndSetIfChanged(ref _selectedTodo, value);
-    }
-    public ToDoManager manager = new();
+    //public ObservableCollection<TodoViewModel> GetTodos { get; } = new ObservableCollection<TodoViewModel>();
 
-    private async void DoSearch(string? s) {
-        IsBusy = true;
-        GetTodos.Clear();
 
-        if (!string.IsNullOrWhiteSpace(s)) {
-            var todos = await manager.SearchAsync(s);
+    //public TodoViewModel? SelectedTodo {
+    //    get => _selectedTodo;
+    //    set => this.RaiseAndSetIfChanged(ref _selectedTodo, value);
+    //}
+    //public ToDoManager manager = new();
 
-            foreach (var todo in todos) {
-                var vm = new TodoViewModel(todo);
-                GetTodos.Add(vm);
-            }
-        }
+    //private async void DoSearch(string? s) {
+    //    IsBusy = true;
+    //    GetTodos.Clear();
+    //    if (!string.IsNullOrWhiteSpace(s)) {
+    //        var todos = await manager.SearchAsync(s);
 
-        IsBusy = false;
-    }
+    //        foreach (var todo in todos) {
+    //            var vm = new TodoViewModel(todo);
+    //            GetTodos.Add(vm);
+    //        }
+    //    }
+
+    //    IsBusy = false;
+    //}
 
 }

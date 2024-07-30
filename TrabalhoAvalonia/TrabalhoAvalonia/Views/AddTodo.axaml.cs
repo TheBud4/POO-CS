@@ -2,13 +2,13 @@ using Avalonia.Controls;
 using TrabalhoAvalonia.Model;
 using Avalonia.Interactivity;
 using System.Diagnostics;
-using System.Security.Cryptography.X509Certificates;
 
 namespace TrabalhoAvalonia.Views;
 public partial class AddTodo : Window {
 
     public ToDoManager manager = new();
     public AddTodo() {
+        Debug.WriteLine("Mensagem de depuração");
         InitializeComponent();
     }
     public void CloseDialog() {
@@ -20,8 +20,10 @@ public partial class AddTodo : Window {
         var title = Name.Text;
         var description = Description.Text;
 
-        var todo = new ToDoItem(title, description);
+        ToDoItem todo = new(title, description);
         manager.AddTodoItem(todo);
+
+        Debug.WriteLine("Mensagem de depuração", todo);
         CloseDialog();
 
     }
