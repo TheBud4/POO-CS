@@ -17,6 +17,6 @@ public class Carro : Veiculo
 
     public override string ToString()
     {
-        return base.ToString() + $", Portas: {NumeroPortas}";
+        return base.ToString() + $" Portas: {NumeroPortas}\n";
     }
 }

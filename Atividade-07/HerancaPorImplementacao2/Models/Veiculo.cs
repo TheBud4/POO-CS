@@ -19,6 +19,6 @@ public abstract class Veiculo : IVeiculo
 
     public override string ToString()
     {
-        return $"{Modelo} - Placa: {Placa}, Ano: {Ano}, Valor Diária: {ValorDiaria:C}";
+        return $"Modelo: {Modelo}\n Placa: {Placa}\n Ano: {Ano}\n Valor Diária: {ValorDiaria:C}\n";
     }
 }

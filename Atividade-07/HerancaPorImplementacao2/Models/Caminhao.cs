@@ -17,6 +17,6 @@ public class Caminhao : Veiculo
 
     public override string ToString()
     {
-        return base.ToString() + $", Capacidade de Carga: {CapacidadeCarga}t";
+        return base.ToString() + $" Capacidade de Carga: {CapacidadeCarga}t \n";
     }
 }
