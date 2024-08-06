@@ -1,7 +1,7 @@
 namespace Atividade_05.Models;
 
 public class Biblioteca {
-    public List<Livro> Livros { get; set; }
+    public List<Livro> Livros { get; }
     
     public Biblioteca() {
         Livros = new List<Livro>();
