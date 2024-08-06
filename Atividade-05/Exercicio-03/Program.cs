@@ -14,11 +14,11 @@ class Program {
         escola.MatricularAluno(aluno2);
         escola.MatricularAluno(aluno3);
 
-
         foreach (var aluno in escola.alunos) {
             Console.WriteLine($"Nome: {aluno.Nome}\n" +
                               $"Matrícula: {aluno.Matricula}");
         }
+        
         escola.DesmatricularAluno(2);
         
         foreach (var aluno in escola.alunos) {
