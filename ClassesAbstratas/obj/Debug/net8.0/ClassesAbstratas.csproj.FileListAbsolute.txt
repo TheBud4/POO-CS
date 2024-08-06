@@ -1,0 +1,15 @@
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/bin/Debug/net8.0/ClassesAbstratas
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/bin/Debug/net8.0/ClassesAbstratas.deps.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/bin/Debug/net8.0/ClassesAbstratas.runtimeconfig.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/bin/Debug/net8.0/ClassesAbstratas.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/bin/Debug/net8.0/ClassesAbstratas.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.AssemblyInfoInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.AssemblyInfo.cs
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.csproj.CoreCompileInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.sourcelink.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/refint/ClassesAbstratas.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ClassesAbstratas.genruntimeconfig.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/Debug/net8.0/ref/ClassesAbstratas.dll
