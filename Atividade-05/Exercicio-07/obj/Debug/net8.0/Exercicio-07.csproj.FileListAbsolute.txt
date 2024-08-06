@@ -1,0 +1,15 @@
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/bin/Debug/net8.0/Exercicio-07
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/bin/Debug/net8.0/Exercicio-07.deps.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/bin/Debug/net8.0/Exercicio-07.runtimeconfig.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/bin/Debug/net8.0/Exercicio-07.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/bin/Debug/net8.0/Exercicio-07.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.GeneratedMSBuildEditorConfig.editorconfig
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.AssemblyInfoInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.AssemblyInfo.cs
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.csproj.CoreCompileInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.sourcelink.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/refint/Exercicio-07.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/Exercicio-07.genruntimeconfig.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-07/obj/Debug/net8.0/ref/Exercicio-07.dll

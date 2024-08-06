@@ -1,0 +1,15 @@
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/bin/Debug/net8.0/Exercicio-08
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/bin/Debug/net8.0/Exercicio-08.deps.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/bin/Debug/net8.0/Exercicio-08.runtimeconfig.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/bin/Debug/net8.0/Exercicio-08.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/bin/Debug/net8.0/Exercicio-08.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.GeneratedMSBuildEditorConfig.editorconfig
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.AssemblyInfoInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.AssemblyInfo.cs
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.csproj.CoreCompileInputs.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.sourcelink.json
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/refint/Exercicio-08.dll
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.pdb
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/Exercicio-08.genruntimeconfig.cache
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Exercicio-08/obj/Debug/net8.0/ref/Exercicio-08.dll
