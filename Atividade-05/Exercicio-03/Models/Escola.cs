@@ -1,7 +1,6 @@
 namespace Exercicio_03.Models;
 
 public class Escola {
-    
     public List<Aluno> alunos = new();
 
     public void MatricularAluno(Aluno aluno) {
