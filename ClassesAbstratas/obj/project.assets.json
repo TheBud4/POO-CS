@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Atividade-05.csproj",
-      "projectName": "Atividade-05",
-      "projectPath": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/Atividade-05.csproj",
+      "projectUniqueName": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/ClassesAbstratas.csproj",
+      "projectName": "ClassesAbstratas",
+      "projectPath": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/ClassesAbstratas.csproj",
       "packagesPath": "/home/thebud4/.nuget/packages/",
-      "outputPath": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/Atividade-05/obj/",
+      "outputPath": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ClassesAbstratas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/thebud4/.nuget/NuGet/NuGet.Config"
