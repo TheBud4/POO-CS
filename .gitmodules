@@ -1,0 +1,3 @@
+[submodule "Post-It-App"]
+	path = Post-It-App
+	url = https://github.com/TheBud4/Post-It-App.git
