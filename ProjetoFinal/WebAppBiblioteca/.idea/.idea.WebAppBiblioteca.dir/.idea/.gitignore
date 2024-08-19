@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+/.idea.WebAppBiblioteca.iml
 /contentModel.xml
-/projectSettingsUpdater.xml
-/.idea.Aula08.iml
 /modules.xml
+/projectSettingsUpdater.xml
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
