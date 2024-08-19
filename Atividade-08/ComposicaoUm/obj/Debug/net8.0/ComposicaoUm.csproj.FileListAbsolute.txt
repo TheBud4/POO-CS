@@ -1,0 +1,14 @@
+/home/thebud4/Downloads/Aula08/ComposicaoUm/bin/Debug/net8.0/ComposicaoUm
+/home/thebud4/Downloads/Aula08/ComposicaoUm/bin/Debug/net8.0/ComposicaoUm.deps.json
+/home/thebud4/Downloads/Aula08/ComposicaoUm/bin/Debug/net8.0/ComposicaoUm.runtimeconfig.json
+/home/thebud4/Downloads/Aula08/ComposicaoUm/bin/Debug/net8.0/ComposicaoUm.dll
+/home/thebud4/Downloads/Aula08/ComposicaoUm/bin/Debug/net8.0/ComposicaoUm.pdb
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.AssemblyInfoInputs.cache
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.AssemblyInfo.cs
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.csproj.CoreCompileInputs.cache
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.dll
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/refint/ComposicaoUm.dll
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.pdb
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ComposicaoUm.genruntimeconfig.cache
+/home/thebud4/Downloads/Aula08/ComposicaoUm/obj/Debug/net8.0/ref/ComposicaoUm.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi\\source\\repos\\Aula08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED64E3F2-374F-4440-9D01-84D388BBEFD3}|ModificaresEAfins\\ModificaresEAfins.csproj|c:\\users\\gabi\\source\\repos\\aula08\\modificareseafins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED64E3F2-374F-4440-9D01-84D388BBEFD3}|ModificaresEAfins\\ModificaresEAfins.csproj|solutionrelative:modificareseafins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|c:\\users\\gabi\\source\\repos\\aula08\\composicaodois\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|solutionrelative:composicaodois\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|c:\\users\\gabi\\source\\repos\\aula08\\composicaodois\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|solutionrelative:composicaodois\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|c:\\users\\gabi\\source\\repos\\aula08\\composicaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|solutionrelative:composicaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|c:\\users\\gabi\\source\\repos\\aula08\\composicaodois\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBC47B3-C767-4375-94E5-56E2A3E7FCE0}|ComposicaoDois\\ComposicaoDois.csproj|solutionrelative:composicaodois\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabi\\source\\repos\\Aula08\\ModificaresEAfins\\Program.cs",
+              "RelativeDocumentMoniker": "ModificaresEAfins\\Program.cs",
+              "ToolTip": "C:\\Users\\gabi\\source\\repos\\Aula08\\ModificaresEAfins\\Program.cs",
+              "RelativeToolTip": "ModificaresEAfins\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:28:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Livro.cs",
+              "RelativeDocumentMoniker": "ComposicaoDois\\Livro.cs",
+              "ToolTip": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Livro.cs",
+              "RelativeToolTip": "ComposicaoDois\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:55:16.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Autor.cs",
+              "RelativeDocumentMoniker": "ComposicaoDois\\Autor.cs",
+              "ToolTip": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Autor.cs",
+              "RelativeToolTip": "ComposicaoDois\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:54:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Categoria.cs",
+              "RelativeDocumentMoniker": "ComposicaoDois\\Categoria.cs",
+              "ToolTip": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Categoria.cs",
+              "RelativeToolTip": "ComposicaoDois\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:54:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Program.cs",
+              "RelativeDocumentMoniker": "ComposicaoDois\\Program.cs",
+              "ToolTip": "C:\\Users\\gabi\\source\\repos\\Aula08\\ComposicaoDois\\Program.cs",
+              "RelativeToolTip": "ComposicaoDois\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:50:41.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/bin/Debug/net8.0/IdentificacaodeTipo
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/bin/Debug/net8.0/IdentificacaodeTipo.deps.json
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/bin/Debug/net8.0/IdentificacaodeTipo.runtimeconfig.json
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/bin/Debug/net8.0/IdentificacaodeTipo.dll
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/bin/Debug/net8.0/IdentificacaodeTipo.pdb
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.AssemblyInfoInputs.cache
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.AssemblyInfo.cs
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.csproj.CoreCompileInputs.cache
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.dll
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/refint/IdentificacaodeTipo.dll
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.pdb
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/IdentificacaodeTipo.genruntimeconfig.cache
+/home/thebud4/Downloads/Aula08/IdentificacaodeTipo/obj/Debug/net8.0/ref/IdentificacaodeTipo.dll

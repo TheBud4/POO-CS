@@ -1,0 +1,14 @@
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/bin/Debug/net8.0/PolimorfismoUm
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/bin/Debug/net8.0/PolimorfismoUm.deps.json
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/bin/Debug/net8.0/PolimorfismoUm.runtimeconfig.json
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/bin/Debug/net8.0/PolimorfismoUm.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/bin/Debug/net8.0/PolimorfismoUm.pdb
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.AssemblyInfoInputs.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.AssemblyInfo.cs
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.csproj.CoreCompileInputs.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/refint/PolimorfismoUm.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.pdb
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/PolimorfismoUm.genruntimeconfig.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoUm/obj/Debug/net8.0/ref/PolimorfismoUm.dll

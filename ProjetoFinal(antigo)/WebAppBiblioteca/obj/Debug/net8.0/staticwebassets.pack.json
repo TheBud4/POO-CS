@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/obj/Debug/net8.0/compressed/ar1trjy3lx.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/obj/Debug/net8.0/scopedcss/bundle/WebAppBiblioteca.styles.css",
+      "PackagePath": "staticwebassets/WebAppBiblioteca.styles.css"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/WebAppBiblioteca/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebAppBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebAppBiblioteca.props",
+      "PackagePath": "build\\WebAppBiblioteca.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebAppBiblioteca.props",
+      "PackagePath": "buildMultiTargeting\\WebAppBiblioteca.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebAppBiblioteca.props",
+      "PackagePath": "buildTransitive\\WebAppBiblioteca.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

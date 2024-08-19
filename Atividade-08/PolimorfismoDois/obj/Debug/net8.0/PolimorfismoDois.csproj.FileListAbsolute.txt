@@ -1,0 +1,14 @@
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/bin/Debug/net8.0/PolimorfismoDois
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/bin/Debug/net8.0/PolimorfismoDois.deps.json
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/bin/Debug/net8.0/PolimorfismoDois.runtimeconfig.json
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/bin/Debug/net8.0/PolimorfismoDois.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/bin/Debug/net8.0/PolimorfismoDois.pdb
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.AssemblyInfoInputs.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.AssemblyInfo.cs
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.csproj.CoreCompileInputs.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/refint/PolimorfismoDois.dll
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.pdb
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/PolimorfismoDois.genruntimeconfig.cache
+/home/thebud4/Downloads/Aula08/PolimorfismoDois/obj/Debug/net8.0/ref/PolimorfismoDois.dll

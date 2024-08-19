@@ -1,0 +1,14 @@
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/bin/Debug/net8.0/ModificadoresDeAcesso
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/bin/Debug/net8.0/ModificadoresDeAcesso.deps.json
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/bin/Debug/net8.0/ModificadoresDeAcesso.runtimeconfig.json
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/bin/Debug/net8.0/ModificadoresDeAcesso.dll
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/bin/Debug/net8.0/ModificadoresDeAcesso.pdb
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.AssemblyInfoInputs.cache
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.AssemblyInfo.cs
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.dll
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/refint/ModificadoresDeAcesso.dll
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.pdb
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ModificadoresDeAcesso.genruntimeconfig.cache
+/home/thebud4/Downloads/Aula08/ModificaresEAfins/obj/Debug/net8.0/ref/ModificadoresDeAcesso.dll
