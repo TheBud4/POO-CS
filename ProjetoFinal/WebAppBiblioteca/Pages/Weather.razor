@@ -1,57 +1,36 @@
 ﻿@page "/weather"
+@using ApiBiblioteca.Models
+@using WebAppBiblioteca.DataBase.Services
 @inject HttpClient Http
+@inject LivroService LivroService
 
-<PageTitle>Weather</PageTitle>
+<h3>Lista de Livros</h3>
 
-<h1>Weather</h1>
+<ul>
+    @foreach (var livro in livros)
+    {
+        <li>@livro.Titulo por @livro.AutoresLivro</li>
+    }
+</ul>
 
-<p>This component demonstrates fetching data from the server.</p>
-
-@if (forecasts == null)
-{
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Temp. (C)</th>
-                <th>Temp. (F)</th>
-                <th>Summary</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var forecast in forecasts)
-            {
-                <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
+<h3>Adicionar Livro</h3>
+<input type="text" @bind="novoLivro.Titulo" placeholder="Título" />
+<input type="text" @bind="novoLivro.AutoresLivro" placeholder="Autor" />
+<button @onclick="AdicionarLivro">Adicionar</button>
 
 @code {
-    private WeatherForecast[]? forecasts;
+    private List<Livro> livros;
+    private Livro novoLivro = new Livro();
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        livros = await LivroService.GetLivrosAsync();
     }
 
-    public class WeatherForecast
+    private async Task AdicionarLivro()
     {
-        public DateOnly Date { get; set; }
-
-        public int TemperatureC { get; set; }
-
-        public string? Summary { get; set; }
-
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        await LivroService.AddLivroAsync(novoLivro);
+        livros = await LivroService.GetLivrosAsync(); // Atualiza a lista
+        novoLivro = new Livro(); // Limpa o formulário
     }
 }
