@@ -1,8 +1,18 @@
+using Microsoft.EntityFrameworkCore;
 using ProjetoFinal.Components;
+using ProjetoFinal.DataBase;
+using ProjetoFinal.DataBase.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+//Configuring the database
+builder.Services.AddDbContext<BibliotecaDbContext>(options =>
+    options.UseSqlite("Data Source=DataBase/DataBase.db"));
+
+// Adding services to the container.
+builder.Services.AddScoped<LivroService>();
+
+
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
