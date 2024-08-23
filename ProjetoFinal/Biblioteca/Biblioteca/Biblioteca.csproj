@@ -19,4 +19,8 @@
     <None Remove="DataBase\DataBase.db" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="DataBase\DataBase.db" />
+  </ItemGroup>
+
 </Project>
