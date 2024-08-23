@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mFSfwW3u9Gc=",
+  "dgSpecHash": "cWVVU3JXvkM=",
   "success": true,
   "projectFilePath": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/ProjetoFinal/ProjetoFinal.csproj",
   "expectedPackageFiles": [
+    "/home/thebud4/.nuget/packages/blazor.bootstrap.icons/1.0.1/blazor.bootstrap.icons.1.0.1.nupkg.sha512",
     "/home/thebud4/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/thebud4/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/thebud4/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

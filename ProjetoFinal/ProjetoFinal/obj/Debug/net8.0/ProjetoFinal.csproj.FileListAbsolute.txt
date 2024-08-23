@@ -125,3 +125,4 @@
 /home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/ProjetoFinal/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.csproj.AssemblyReference.cache
 /home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/ProjetoFinal/obj/Debug/net8.0/ProjetoF.55FE4514.Up2Date
+/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/ProjetoFinal/bin/Debug/net8.0/Blazor.Bootstrap.Icons.dll

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css",
+      "PackagePath": "staticwebassets/Biblioteca.bundle.scp.css"
+    },
+    {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props",
+      "PackagePath": "build\\Biblioteca.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props",
+      "PackagePath": "buildMultiTargeting\\Biblioteca.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props",
+      "PackagePath": "buildTransitive\\Biblioteca.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

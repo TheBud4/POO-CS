@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "s6nOG7XV27FtQJ98jchN5j1RpTFQ2Q8GURl8+CklqdY=",
+  "Source": "Biblioteca",
+  "BasePath": "_content/Biblioteca",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Biblioteca/wwwroot",
+      "Source": "Biblioteca",
+      "ContentRoot": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/",
+      "BasePath": "_content/Biblioteca",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "Biblioteca.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css"
+    },
+    {
+      "Identity": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "Biblioteca.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/app.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.css"
+    }
+  ]
+}
