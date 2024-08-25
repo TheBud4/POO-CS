@@ -26,12 +26,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Pages/Livros.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9MaXZyb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Pages/PainelDeControle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QYWluZWxEZUNvbnRyb2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Routes.razor]
@@ -45,3 +45,11 @@ build_metadata.AdditionalFiles.CssScope =
 [/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-s4yoie9z4g
+
+[/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-f0xkyy0vu9
+
+[/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/Components/Pages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0rqj70gqql

@@ -17,10 +17,18 @@
 
   <ItemGroup>
     <None Remove="DataBase\DataBase.db" />
+    <None Remove="Components\Pages\HomePage.razor.css" />
+    <None Remove="Components\Layout\NavMenu.razor.css" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="DataBase\DataBase.db" />
+    <Content Remove="Components\Pages\PaginaInicial.razor" />
+    <Content Remove="Components\Pages\Home.razor" />
+    <Content Remove="Components\Pages\HomePage.razor" />
+    <Content Remove="Components\Pages\PainelDeControle.razor" />
+    <Content Remove="Components\Pages\Livros.razor" />
+    <Content Remove="Components\Layout\NavMenu.razor" />
   </ItemGroup>
 
 </Project>

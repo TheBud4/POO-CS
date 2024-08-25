@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Biblioteca.bundle.scp.css"
     },
     {
+      "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/PaginaInicial.css",
+      "PackagePath": "staticwebassets/PaginaInicial.css"
+    },
+    {
       "Id": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },

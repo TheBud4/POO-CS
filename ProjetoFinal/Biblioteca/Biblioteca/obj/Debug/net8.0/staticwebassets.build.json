@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s6nOG7XV27FtQJ98jchN5j1RpTFQ2Q8GURl8+CklqdY=",
+  "Hash": "/IQIOdXiVL36GLS4VeS7Xe93oFAq7q1mCRM0VX3B+K8=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/PaginaInicial.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/Data/WWW/UTFPR/Programacao-Orientada-Objetos/ProjetoFinal/Biblioteca/Biblioteca/wwwroot/",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "PaginaInicial.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/PaginaInicial.css"
     }
   ]
 }
