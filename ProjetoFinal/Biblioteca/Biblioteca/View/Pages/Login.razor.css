@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+    
+}
+.container h3{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.container .custom-form{
+    display: flex;
+    gap: 3rem;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    background: #929292;
+    padding: 2rem;
+    color: red;
+}
